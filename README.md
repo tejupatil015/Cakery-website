@@ -23,7 +23,7 @@ This project represents a modern bakery website where users can explore cakes, v
 
 ---
 ## Live Demo
-View Website: https://tejupatil015.github.io/My-New-Project4/
+View Website:  https://tejupatil015.github.io/Cakery-website/
 
 
 
